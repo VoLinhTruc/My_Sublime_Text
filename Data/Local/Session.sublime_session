@@ -1,0 +1,1299 @@
+{
+	"folder_history":
+	[
+		"/D/Bico/soft/arduino/arduino-1.8.13/portable/packages/STM32/hardware/stm32/1.9.0/cores/arduino",
+		"/C/C_Cpp_LIB/Tree_Back_Model",
+		"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/uthash",
+		"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/google-cloud-iot-arduino-master",
+		"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/packages/esp32/hardware/esp32/1.0.4",
+		"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/packages/esp32/hardware/esp32/1.0.4/libraries/BLE/src",
+		"/C/Users/PERITEC-10/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.4",
+		"/C/Users/PERITEC-10/Desktop/uMQTTBroker-master/uMQTTBroker-master",
+		"/C/Users/PERITEC-10/Desktop/Profibus_DP_slave-master/Profibus_DP_slave-master",
+		"/D/Bico/soft/arduino/arduino-1.8.9/portable/sketchbook/libraries/Bico_Modbus",
+		"/D/Bico/HOC/ProfiBus/profibus-dp-software-stack",
+		"/C/Users/PERITEC-10/Desktop/LINX-master/LabVIEW/vi.lib/MakerHub/LINX",
+		"/C/Users/PERITEC-10/Downloads/Arduino-master/Arduino-master",
+		"/C/Users/PERITEC-10/Downloads/Arduino-master/Arduino-master/libraries",
+		"/C/Users/PERITEC-10/Desktop/xxx",
+		"/C/Users/PERITEC-10/AppData/Local/Arduino15/packages/esp8266/hardware/esp8266/2.5.2"
+	],
+	"last_version": 3211,
+	"last_window_id": 29,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 692.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"dele",
+						"deleteMem"
+					],
+					[
+						"uit",
+						"uint16_t"
+					],
+					[
+						"GPIO",
+						"GPIOSetMode"
+					],
+					[
+						"GIO",
+						"GPIOWrite"
+					],
+					[
+						"HHAL_GPIO_",
+						"HHAL_GPIO_WRITE_PROPERTIES"
+					],
+					[
+						"state",
+						"_state"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"num",
+						"num2"
+					],
+					[
+						"p",
+						"place"
+					],
+					[
+						"f",
+						"for"
+					],
+					[
+						"d",
+						"defun"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Plugin Development: Convert Syntax to .sublime-syntax"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Bico/soft/arduino/arduino-1.8.13/portable/packages/STM32/hardware/stm32/1.9.0/cores/arduino/main.cpp",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Example/Tree_Back_Model_Arduino_Test/Tree_Back_Executing_Task.cpp",
+				"/C/Users/PERITEC-10/Desktop/xxx.xlsx",
+				"/C/Users/PERITEC-10/Desktop/Book1.xlsx",
+				"/C/Users/PERITEC-10/Desktop/bico_orcad/test1/test1.brd",
+				"/C/Users/PERITEC-10/Desktop/xxx.brd",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Model.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Model.c",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Executing_Task.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Executing_Task.c",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Managing_Task.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Managing_Task.c",
+				"/D/Bico/HOC/FreeRTOS/FreeRTOS_WIN32_MSVC/main.c",
+				"/D/Bico/HIOKI account ID.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Tree_Back_Model.c",
+				"/D/Download/PlatformIO_lib-master/PlatformIO_lib-master/Snake_Queue/src/Snake_Queue.cpp",
+				"/D/Download/PlatformIO_lib-master/PlatformIO_lib-master/Snake_Queue/src/Snake_Queue.h",
+				"/D/Download/PlatformIO_lib-master/PlatformIO_lib-master/Snake_Queue/src/example.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Tree_Back_Model.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Model_Include.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/keywords.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Task/Tree_Back_Executing_Task.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Task/Tree_Back_Managing_Task.h",
+				"/C/Users/PERITEC-10/Desktop/sketch_jan05a/Tree_Back_Managing_Task.h",
+				"/C/Users/PERITEC-10/Desktop/sketch_jan05a/Tree_Back_Executing_Task.h",
+				"/C/Users/PERITEC-10/Desktop/sketch_jan05a/Tree_Back_Managing_Task.cpp",
+				"/C/Users/PERITEC-10/Desktop/sketch_jan05a/Tree_Back_Executing_Task.cpp",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/code_in_main_program_for_testing.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Tree_Back_Model_Include.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Task/Tree_Back_Managing_Task.c",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Task/Tree_Back_Executing_Task.c",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Task/Get these file to use in the main program.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/TB_Model.h",
+				"/C/C_Cpp_LIBxxx/Tree_Back_Model/Tree_Back_Model_Include.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Tree_Back_Managing_Task.c",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Tree_Back_Executing_Task.c",
+				"/C/C_Cpp_LIBxxx/Tree_Back_Model/code_in_main_program_for_testing.txt",
+				"/C/Qt/Tools/QtDesignStudio/README.txt",
+				"/C/C_Cpp_LIB/.git/modules/Third_Party/uthash/config",
+				"/C/Users/PERITEC-10/Desktop/dfsfdsdf.py",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/src/Tree_Back_Model.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/src/Tree_Back_Model/Tree_Back_Model_Include.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/arduino-mqtt-master/src/MQTTClient.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/arduino-mqtt-master/src/MQTT.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/readme.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/src/Tree_Back_Model/Tree_Back_Model.h",
+				"/C/Users/PERITEC-10/Desktop/xxx/xxx.h",
+				"/C/Users/PERITEC-10/Desktop/xxx/xxx.c",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/src/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Model.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/src/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Model_Include.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/packages/STM32/hardware/stm32/1.9.0/boards.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/packages/STM32/hardware/stm32/1.9.0/keywords.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/packages/STM32/hardware/stm32/1.9.0/platform.txt",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Executing_Task_Include.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Managing_Task_Include.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/code_in_main_program_for_testing.txt",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Executing_Task.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Managing_Task.h",
+				"/C/Users/PERITEC-10/Desktop/xxx/main.cpp",
+				"/C/Users/PERITEC-10/Desktop/xxx/main.c",
+				"/C/Users/PERITEC-10/Desktop/xxx/xxx.cpp",
+				"/C/C_Cpp_LIB/.gitmodules",
+				"/C/C_Cpp_LIB/.git/config",
+				"/C/FreeRTOS_My_Lib/code_in_main_file_to_test.txt",
+				"/D/Bico/HOC/PCB/README.md",
+				"/D/Bico/HOC/PCB/Useful website for circuit reference.txt",
+				"/C/Users/PERITEC-10/Desktop/PeLabIno/test_command.txt",
+				"/C/Users/PERITEC-10/Desktop/PeLabIno/Test/Test_01/Test_01.cpp",
+				"/C/Users/PERITEC-10/Downloads/Project Outputs for MQSC_1.0/Project Outputs for MQSC_1.0/PCB2-RoundHoles.TXT",
+				"/C/Users/PERITEC-10/Downloads/xxxxzzzz (1).txt",
+				"/C/Users/PERITEC-10/Downloads/Project Outputs for MQSC_1.0/Project Outputs for MQSC_1.0/PCB2.GBL",
+				"/C/Users/PERITEC-10/Downloads/Project Outputs for MQSC_1.0/Project Outputs for MQSC_1.0/PCB2.GBS",
+				"/C/Users/PERITEC-10/Downloads/Project Outputs for MQSC_1.0/Project Outputs for MQSC_1.0/PCB2-SlotHoles.TXT",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/lib_test/lid_test.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/lib_test/main.cpp",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/lib_test/main.c",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/lib_test/examples/lib_test.ino",
+				"/C/Users/PERITEC-10/Downloads/grbl-master/grbl-master/doc/script/stream.py",
+				"/C/Users/PERITEC-10/Downloads/grbl-master/grbl-master/doc/script/simple_stream.py",
+				"/C/Users/PERITEC-10/Desktop/Bico_KiCad/Test5/Test5.pretty/Test5_Lib.kicad_mod",
+				"/C/Users/PERITEC-10/Downloads/lpcopen_3_02_lpcxpresso_xpresso1837/periph_blinky/src/cr_startup_lpc18xx.c",
+				"/C/Users/PERITEC-10/Desktop/text.txt",
+				"/C/Users/PERITEC-10/Desktop/ac.py",
+				"/D/Peritec/Project/Toyota/CAN_PCB_Check_Box/CAN_PCB_Check_Box/CAN_PCB_Check_Box.lib",
+				"/C/Users/PERITEC-10/Desktop/Test4/Test4-cache.lib",
+				"/C/Users/PERITEC-10/Downloads/altium2kicad-master/altium2kicad-master/Tests/A simple box in green.txt",
+				"/C/Users/PERITEC-10/Downloads/altium2kicad (1)/altium2kicad-conversionlog.txt",
+				"/C/Users/PERITEC-10/Downloads/altium2kicad-master/altium2kicad-master/Tests/3 Pads and a simple box above them.txt",
+				"/C/Users/PERITEC-10/Downloads/ESP32-EVB-master/ESP32-EVB-master/HARDWARE/REV-F/ESP32-EVB_Rev_F.net",
+				"/C/Users/PERITEC-10/Downloads/ESP32-EVB-master/ESP32-EVB-master/HARDWARE/REV-F/ESP32-EVB_Rev_F-rescue.lib",
+				"/C/Users/PERITEC-10/Desktop/git_test/xxx.txt",
+				"/C/Users/PERITEC-10/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/SimpleBLE/src/SimpleBLE.cpp",
+				"/C/Users/PERITEC-10/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/SimpleBLE/src/SimpleBLE.h",
+				"/C/Users/PERITEC-10/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/BLE/src/BLEDevice.h",
+				"/C/Users/PERITEC-10/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/BluetoothSerial/src/BluetoothSerial.cpp",
+				"/C/Users/PERITEC-10/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/BluetoothSerial/src/BluetoothSerial.h",
+				"/C/Users/PERITEC-10/Desktop/basdbas/rt-thread/New Text Document.txt",
+				"/C/Users/PERITEC-10/Desktop/NoName(1).VBS",
+				"/C/Users/PERITEC-10/Desktop/LibXX.VBS",
+				"/C/Users/PERITEC-10/Desktop/blabla/sfasdf.txt",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/Practising_File/A-3/DataPlugin_Ex2.vbsd",
+				"/C/Users/PERITEC-10/Desktop/abc.vbs",
+				"/C/Users/PERITEC-10/Desktop/xyz.vbs",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/Practising_File/7-4/Ex07_03_SetUp.vbs",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/Practising_File/7-4/View_Script.VBS",
+				"/C/Users/PERITEC-10/Downloads/6Kqy6aGMLnppcA==/ë█æÞ/No.1/Sample.txt",
+				"/C/Users/PERITEC-10/Downloads/6Kqy6aGMLnppcA==/ë█æÞ/No.1/flow.vsdx",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/DIAdem Advanced/ExerciseSource/DataPlugin2.ex2",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/Practising_File/A-2/DataPlugin1.ex1",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/DIAdem Advanced/ExerciseSource/DataPlugin1.ex1",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/Practising_File/9-3/PPT_Script.VBS",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/Practising_File/8-3/Ex08_03_SetUp.vbs",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/Practising_File/6-1/SingleEvaluation.VBS",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/Practising_File/5-3/SingleEvaluation.VBS",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/DIAdem Advanced/SolutionSource/Script_07_03.vbs",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/Practising_File/8-2/Dlg_Ctrl.VBS",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/Practising_File/2-2/VBSTraining.VBS",
+				"/D/Bico/HOC/NI DIAdem/Exercise/DIA2_2012_EN/Practising_File/2-1/NoName(1).VBS",
+				"/C/FreeRTOS_My_Lib/uthash/tests/test1.c",
+				"/C/FreeRTOS_My_Lib/uthash/src/uthash.h",
+				"/C/Program Files/mosquitto/myConf.py",
+				"/C/Program Files/mosquitto/myACL.py",
+				"/C/Program Files/mosquitto/pw.txt",
+				"/C/Program Files/mosquitto/ChangeLog.txt",
+				"/C/Program Files/mosquitto/readme-windows.txt",
+				"/C/Users/PERITEC-10/source/repos/ConsoleApplication1/inc/dllmain.h",
+				"/D/Bico/HOC/Other/FreeRTOS/Source/Test/WIN32-MSVC/Test/Test1.c",
+				"/C/FreeRTOS_My_Lib/Flat_Comm_Model/Flat_Comm_Model.h"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 451.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"end",
+					"begin",
+					"free",
+					"xQueueSend",
+					"errQUEUE_FULL",
+					"tb",
+					"createTBTask",
+					"*mq",
+					"*tb_Task",
+					"Tree_Back_Task_Table",
+					"task",
+					"config",
+					"tb_Task",
+					"tb_Task->",
+					"result",
+					"sizeof",
+					"all",
+					"sending_mq",
+					"TB_MQ",
+					"mq",
+					"tb_Task",
+					"printf",
+					"boolean",
+					"printf",
+					"\\",
+					"excel",
+					"layer",
+					" = \"\"",
+					"Public ",
+					" ",
+					"  ",
+					"   ",
+					"+",
+					"/",
+					"\\",
+					"eString",
+					"HASH_ADD_",
+					"HASH_ADD",
+					"pw",
+					"false",
+					"password_file",
+					"username",
+					"/",
+					"new",
+					"HHAL_GPIO",
+					"Serial",
+					"last_mem_index",
+					"HALL",
+					"messageHandler",
+					"hhal",
+					"messageHandler",
+					"HHAL_PWMDeinit",
+					"HHAL_PWMPWMDeinit",
+					"_self_prop",
+					"end",
+					"delete",
+					"NULL",
+					"HHAL_ANALOG_Prop",
+					"analogDeinit",
+					"analogRead",
+					"HHAL_ANALOG_VALUE",
+					"analogInit",
+					"PWM",
+					"HHAL_RESPONSE",
+					"PWM",
+					"PWM_",
+					"HHAL_PWM",
+					"GPIO",
+					"PWMInit",
+					"GPIOInit",
+					"gpiosetmode",
+					"GPIOInit",
+					"GPIOSetMode",
+					"GPIO",
+					"DEFAULT_GPIO",
+					"DEFAULT",
+					"HHAL_GPIO_WRITE_PROPERTIES",
+					"begin(uint8_t",
+					"messageHandler",
+					"HHAL_Prop",
+					"enhancing",
+					" ",
+					"The midlevel system was our first PXI-based",
+					"dao mổ",
+					"We succeeded in developing this system thanks to the multilevel measurement system using the NI PXI platform and LabVIEW system design software. There was no other way of making that happen",
+					"Author",
+					"<h3>Author(s):</h3>",
+					"<p style=\"padding-bottom: 24px;\">Developing an automated test device for an in-vehicle indicator electronic control unit (ECU). </p>",
+					"Developing an automated test device for an in-vehicle indicator electronic control unit (ECU)",
+					"Development of an In-Vehicle Meter ECU Hardware-in-the-Loop Automated Test Device Using NI LabVIEW and PXI Hardware",
+					"Development of an In-Vehicle Meter ECU Hardware-in-the-Loop Automated Test Device Using NI LabVIEW and PXI",
+					"Development of an In-Vehicle Meter ECU Hardware-in-the-Loop Automated Test Device Using NI LabVIEW and PXI Hardware",
+					"IP_ADU_readHoldingRegistersRequest",
+					"MBAP",
+					"IP_ADU_ReadCoilsResponse"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"- end",
+					"- begin",
+					"(*mq)",
+					"(*tb_Task)",
+					"*tb_Task",
+					"(*tb_Task)->",
+					"(*tb_Task)",
+					"tb_Task",
+					"/",
+					"Excel",
+					"",
+					" ",
+					"",
+					"\\",
+					"/",
+					"\\",
+					"HHAL",
+					"HHAL_Analog_Prop",
+					"ANALOG",
+					"analog",
+					"ANALOG_",
+					"HHAL_ANALOG",
+					"PWM",
+					"HHAL_GPIO_DEFAULT",
+					"DEFAULT_GPIO",
+					"HHAL_GPIO_Prop",
+					"dao phẫu thuật",
+					"Quá trình phát triển hệ thống đo kiểm thiết bị phần cứng trên xe hơi sử dung NI LabVIEW và PXI"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 351.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1048.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"dele",
+						"deleteMem"
+					],
+					[
+						"uit",
+						"uint16_t"
+					],
+					[
+						"GPIO",
+						"GPIOSetMode"
+					],
+					[
+						"GIO",
+						"GPIOWrite"
+					],
+					[
+						"HHAL_GPIO_",
+						"HHAL_GPIO_WRITE_PROPERTIES"
+					],
+					[
+						"state",
+						"_state"
+					],
+					[
+						"in",
+						"include"
+					],
+					[
+						"num",
+						"num2"
+					],
+					[
+						"p",
+						"place"
+					],
+					[
+						"f",
+						"for"
+					],
+					[
+						"d",
+						"defun"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Voltera-Vone\n\nCách vận hành để tránh hư hỏng.\n\n- khi khoan, nếu có dùng miếng lót mạch, thì ko nên dùng thứ cứng quá, sẽ gây gãy mũi khoan\n- mực in xong nhớ bảo quản kỹ trong tủ ngăn mát, đây là đồ đắt tiền, nên giữ kỹ\n- Khi chà bóng mực in sau khi làm khô, không nên quá mạnh tay coi chừng bong mạnh, nó mà bong cái là mệt (1 là làm lại từ đầu, 2 là in lại chỗ bị bong, mà in lại chỗ bị bong thì khá là khoai tại lúc làm khô ta lại để ở nhiệt độ cao, ko biết có ảnh hưởng gì xấu tới mực mấy chỗ khác không)\n",
+					"settings":
+					{
+						"buffer_size": 508,
+						"line_ending": "Windows",
+						"name": "Voltera-Vone"
+					}
+				},
+				{
+					"contents": "M62X98997",
+					"settings":
+					{
+						"buffer_size": 9,
+						"line_ending": "Windows",
+						"name": "M62X98997"
+					}
+				},
+				{
+					"contents": "Give the project name and one sentence to describe the project\n\n/----------------------------------------------------------------\n\nIt is better if giving the time for each task.\nIf useful infomations are gotten, list them out.\nAdd the project process (Done, Working, Pending, ...)\nChange \"Tomorrow plan\" -> \"Next working day plan\".\nIf the content in one line to long, separate them.\nIn the \"Next working day plan\" section, note the job to do and what can be achieved.\n\n/----------------------------------------------------------------\n\nIt is better to summarize what has being learned even if it is just a little of understanding\n\nIf there are no task, strongly ask the leader/manager for new task\nStrongly ask about the Project Schedule (the detail of working time on the project) \n\n/----------------------------------------------------------------\n\nWrite the report before come home\n\n/----------------------------------------------------------------\n\nMake the report easy to understand but still has enough infomation",
+					"settings":
+					{
+						"buffer_size": 1019,
+						"line_ending": "Windows",
+						"name": "Give the project name and one sentence to describe"
+					}
+				},
+				{
+					"contents": "\nProject 10419 国立障害者リハビリテーションセンター姿勢制御アプリケーション改良:  Add comments in each loop to describe what it does (Done).\nAdd error cases in the instrument loop to handle the error (Done) .\nChanged the state changing method from enqueue the message to changing the state internally in the loop (Done).\nAdd Main_Loop_State.vi to convert the output state of the main VI from Enum to String.\nAdd a debug tab to monitor the Error.\n\nLearn about the gray and HSV color space.\nLearn how to convert RGB color space to gray and HSV color space.\n\n\n\n\n\nProject 10419 国立障害者リハビリテーションセンター姿勢制御アプリケーション改良:  \nWaiting for new feedback.\n\nLearning how to detect contour in an image if there are no feedbacks responded.",
+					"settings":
+					{
+						"buffer_size": 684,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "14:30 - 14:40 Duy Nguyen Help",
+					"settings":
+					{
+						"buffer_size": 29,
+						"line_ending": "Windows",
+						"name": "14:30 - 14:40 Duy Nguyen Help"
+					}
+				},
+				{
+					"file": "/C/C_Cpp_LIB/Bico_MQTT/src/dummy/Deserialize_Test.h",
+					"settings":
+					{
+						"buffer_size": 4887,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/C_Cpp_LIB/Bico_MQTT/src/dummy/Serialize_Test.h",
+					"settings":
+					{
+						"buffer_size": 2576,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Bico/HIOKI account ID.txt",
+					"settings":
+					{
+						"buffer_size": 18,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Plugin Development: Convert Syntax to .sublime-syntax"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/PERITEC-10/source/repos/Csharp_DLL_Test/Csharp_DLL_Test/Program.cs",
+				"/C/Users/PERITEC-10/source/repos/Dll2/Dll2/dllmain.cpp",
+				"/C/Users/PERITEC-10/source/repos/Dll1/Dll1/dllmain.cpp",
+				"/D/Bico/HOC/Qt/Test/Test1/main.cpp",
+				"/C/C_Cpp_LIB/Bico_MQTT/src/Bico_MQTT_Packet_Deserialize.c",
+				"/C/Users/PERITEC-10/Desktop/x.txt",
+				"/C/Users/PERITEC-10/Desktop/1.txt",
+				"/D/Bico/HIOKI account ID.txt",
+				"/C/Users/PERITEC-10/Desktop/Pico/main.py",
+				"/C/Users/PERITEC-10/Desktop/2",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Example/PlatformIO_ESP32/src/main.cpp",
+				"/C/C_Cpp_LIB/Tree_Back_Model/code_in_main_program_for_testing.txt",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Application_Definition.h",
+				"/D/Download/NI_myRIO_Vision_Essentials_Guide/readme.txt",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Example/PlatformIO_ESP32/src/Tree_Back_Executing_Task.cpp",
+				"/C/C_Cpp_LIB/Tree_Back_Model/src/Tree_Back_Table.c (pointer key - use this when esp32 arduino core support xTaskGetHandle)",
+				"/C/C_Cpp_LIB/Tree_Back_Model/src/Tree_Back_Table.h (pointer key - use this when esp32 arduino core support xTaskGetHandle)",
+				"/C/C_Cpp_LIB/Tree_Back_Model/src/Tree_Back_Table.c",
+				"/C/C_Cpp_LIB/Tree_Back_Model/src/Tree_Back_Table.h",
+				"/D/Bico/HOC/FreeRTOS/FreeRTOS_WIN32_MSVC/main.c",
+				"/C/Users/PERITEC-10/Desktop/test.py",
+				"/F/INFO_UF2.TXT",
+				"/D/Download/pico_micropython_20210121.uf2",
+				"/C/Users/PERITEC-10/Desktop/MQSC_1.0 - Copy/Bico_Config_Utility/Bico_Config_Utility.pro",
+				"/C/Users/PERITEC-10/Desktop/MQSC_Utility/MQSC_Utility/MQSC_Utility.pro",
+				"/C/Users/PERITEC-10/Desktop/MQSC_1.0 - Copy/Bico_Config_Utility/ui_mainwindow.h",
+				"/C/Users/PERITEC-10/Desktop/MQSC_1.0/Bico_Config_Utility/wifi_config.txt",
+				"/C/Users/PERITEC-10/.platformio/lib/Tree_Back_Model/src/Tree_Back_Model_Include.h",
+				"/C/Users/PERITEC-10/.platformio/lib/Tree_Back_Model/src/Tree_Back_Utility.c",
+				"/C/Users/PERITEC-10/.platformio/lib/Tree_Back_Model/src/Tree_Back_Utility.h",
+				"/C/Users/PERITEC-10/.platformio/lib/Tree_Back_Model/src/Tree_Back_Model.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Using_Static_TBMQ/Tree_Back_Executing_Task_Static_TBMQ.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Using_Static_TBMQ/Tree_Back_Managing_Task_Static_TBMQ.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Using_Static_TBMQ/Tree_Back_Static_Message_Queue.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Using_Static_TBMQ/Tree_Back_Executing_Task_Static_TBMQ.c",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Using_Static_TBMQ/Tree_Back_Static_Message_Queue.c",
+				"/C/C_Cpp_LIB/Tree_Back_Model/src/Tree_Back_Message_Queue.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/src/Tree_Back_Message_Queue.c",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Executing_Task.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Using_Static_TBMQ/Tree_Back_Managing_Task_Static_TBMQ.c",
+				"/C/Users/PERITEC-10/Desktop/Test/builds/Test/NI-cRIO-9064-030dbfe7/My Real-Time Application/home/lvuser/natinst/bin/startup.aliases",
+				"/C/Users/PERITEC-10/Desktop/Test/builds/Test/NI-cRIO-9064-030dbfe7/My Real-Time Application/home/lvuser/natinst/bin/startup.rtexe",
+				"/C/Users/PERITEC-10/Desktop/builds/Untitled Project 2/NI-cRIO-9064-030dbfe7/My Real-Time Application/home/lvuser/natinst/bin/project/errors/English/LabVIEW Elemental IO-errors.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13/portable/packages/STM32/hardware/stm32/1.9.0/cores/arduino/main.cpp",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Example/Tree_Back_Model_Arduino_Test/Tree_Back_Executing_Task.cpp",
+				"/C/Users/PERITEC-10/Desktop/xxx.xlsx",
+				"/C/Users/PERITEC-10/Desktop/Book1.xlsx",
+				"/C/Users/PERITEC-10/Desktop/bico_orcad/test1/test1.brd",
+				"/C/Users/PERITEC-10/Desktop/xxx.brd",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Model.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Model.c",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Executing_Task.c",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Managing_Task.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Task/Tree_Back_Managing_Task.c",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Tree_Back_Model.c",
+				"/D/Download/PlatformIO_lib-master/PlatformIO_lib-master/Snake_Queue/src/Snake_Queue.cpp",
+				"/D/Download/PlatformIO_lib-master/PlatformIO_lib-master/Snake_Queue/src/Snake_Queue.h",
+				"/D/Download/PlatformIO_lib-master/PlatformIO_lib-master/Snake_Queue/src/example.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Tree_Back_Model.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Model_Include.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/keywords.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Task/Tree_Back_Executing_Task.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Task/Tree_Back_Managing_Task.h",
+				"/C/Users/PERITEC-10/Desktop/sketch_jan05a/Tree_Back_Managing_Task.h",
+				"/C/Users/PERITEC-10/Desktop/sketch_jan05a/Tree_Back_Executing_Task.h",
+				"/C/Users/PERITEC-10/Desktop/sketch_jan05a/Tree_Back_Managing_Task.cpp",
+				"/C/Users/PERITEC-10/Desktop/sketch_jan05a/Tree_Back_Executing_Task.cpp",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/code_in_main_program_for_testing.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Tree_Back_Model_Include.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Task/Tree_Back_Managing_Task.c",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Task/Tree_Back_Executing_Task.c",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Task/Get these file to use in the main program.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/TB_Model.h",
+				"/C/C_Cpp_LIBxxx/Tree_Back_Model/Tree_Back_Model_Include.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Tree_Back_Managing_Task.c",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/Tree_Back_Model/Tree_Back_Executing_Task.c",
+				"/C/C_Cpp_LIBxxx/Tree_Back_Model/code_in_main_program_for_testing.txt",
+				"/C/Qt/Tools/QtDesignStudio/README.txt",
+				"/C/C_Cpp_LIB/.git/modules/Third_Party/uthash/config",
+				"/C/Users/PERITEC-10/Desktop/dfsfdsdf.py",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/src/Tree_Back_Model.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/src/Tree_Back_Model/Tree_Back_Model_Include.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/arduino-mqtt-master/src/MQTTClient.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/arduino-mqtt-master/src/MQTT.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/readme.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/src/Tree_Back_Model/Tree_Back_Model.h",
+				"/C/Users/PERITEC-10/Desktop/xxx/xxx.h",
+				"/C/Users/PERITEC-10/Desktop/xxx/xxx.c",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/src/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Model.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/C_Cpp_LIB/src/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Model_Include.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/packages/STM32/hardware/stm32/1.9.0/boards.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/packages/STM32/hardware/stm32/1.9.0/keywords.txt",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/packages/STM32/hardware/stm32/1.9.0/platform.txt",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Executing_Task_Include.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Managing_Task_Include.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Executing_Task.h",
+				"/C/C_Cpp_LIB/Tree_Back_Model/Tree_Back_Managing_Task.h",
+				"/C/Users/PERITEC-10/Desktop/xxx/main.cpp",
+				"/C/Users/PERITEC-10/Desktop/xxx/main.c",
+				"/C/Users/PERITEC-10/Desktop/xxx/xxx.cpp",
+				"/C/C_Cpp_LIB/.gitmodules",
+				"/C/C_Cpp_LIB/.git/config",
+				"/C/FreeRTOS_My_Lib/code_in_main_file_to_test.txt",
+				"/D/Bico/HOC/PCB/README.md",
+				"/D/Bico/HOC/PCB/Useful website for circuit reference.txt",
+				"/C/Users/PERITEC-10/Desktop/PeLabIno/test_command.txt",
+				"/C/Users/PERITEC-10/Desktop/PeLabIno/Test/Test_01/Test_01.cpp",
+				"/C/Users/PERITEC-10/Downloads/Project Outputs for MQSC_1.0/Project Outputs for MQSC_1.0/PCB2-RoundHoles.TXT",
+				"/C/Users/PERITEC-10/Downloads/xxxxzzzz (1).txt",
+				"/C/Users/PERITEC-10/Downloads/Project Outputs for MQSC_1.0/Project Outputs for MQSC_1.0/PCB2.GBL",
+				"/C/Users/PERITEC-10/Downloads/Project Outputs for MQSC_1.0/Project Outputs for MQSC_1.0/PCB2.GBS",
+				"/C/Users/PERITEC-10/Downloads/Project Outputs for MQSC_1.0/Project Outputs for MQSC_1.0/PCB2-SlotHoles.TXT",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/lib_test/lid_test.h",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/lib_test/main.cpp",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/lib_test/main.c",
+				"/D/Bico/soft/arduino/arduino-1.8.13-windows/arduino-1.8.13/portable/sketchbook/libraries/lib_test/examples/lib_test.ino",
+				"/C/Users/PERITEC-10/Downloads/grbl-master/grbl-master/doc/script/stream.py",
+				"/C/Users/PERITEC-10/Downloads/grbl-master/grbl-master/doc/script/simple_stream.py",
+				"/C/Users/PERITEC-10/Desktop/Bico_KiCad/Test5/Test5.pretty/Test5_Lib.kicad_mod",
+				"/C/Users/PERITEC-10/Downloads/lpcopen_3_02_lpcxpresso_xpresso1837/periph_blinky/src/cr_startup_lpc18xx.c",
+				"/C/Users/PERITEC-10/Desktop/text.txt",
+				"/C/Users/PERITEC-10/Desktop/ac.py",
+				"/D/Peritec/Project/Toyota/CAN_PCB_Check_Box/CAN_PCB_Check_Box/CAN_PCB_Check_Box.lib",
+				"/C/Users/PERITEC-10/Desktop/Test4/Test4-cache.lib",
+				"/C/Users/PERITEC-10/Downloads/altium2kicad-master/altium2kicad-master/Tests/A simple box in green.txt",
+				"/C/Users/PERITEC-10/Downloads/altium2kicad (1)/altium2kicad-conversionlog.txt",
+				"/C/Users/PERITEC-10/Downloads/altium2kicad-master/altium2kicad-master/Tests/3 Pads and a simple box above them.txt",
+				"/C/Users/PERITEC-10/Downloads/ESP32-EVB-master/ESP32-EVB-master/HARDWARE/REV-F/ESP32-EVB_Rev_F.net"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 451.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"7MF1565",
+					"MQTTCreateUnsubackPacket",
+					"end",
+					"begin",
+					"free",
+					"xQueueSend",
+					"errQUEUE_FULL",
+					"tb",
+					"createTBTask",
+					"*mq",
+					"*tb_Task",
+					"Tree_Back_Task_Table",
+					"task",
+					"config",
+					"tb_Task",
+					"tb_Task->",
+					"result",
+					"sizeof",
+					"all",
+					"sending_mq",
+					"TB_MQ",
+					"mq",
+					"tb_Task",
+					"printf",
+					"boolean",
+					"printf",
+					"\\",
+					"excel",
+					"layer",
+					" = \"\"",
+					"Public ",
+					" ",
+					"  ",
+					"   ",
+					"+",
+					"/",
+					"\\",
+					"eString",
+					"HASH_ADD_",
+					"HASH_ADD",
+					"pw",
+					"false",
+					"password_file",
+					"username",
+					"/",
+					"new",
+					"HHAL_GPIO",
+					"Serial",
+					"last_mem_index",
+					"HALL",
+					"messageHandler",
+					"hhal",
+					"messageHandler",
+					"HHAL_PWMDeinit",
+					"HHAL_PWMPWMDeinit",
+					"_self_prop",
+					"end",
+					"delete",
+					"NULL",
+					"HHAL_ANALOG_Prop",
+					"analogDeinit",
+					"analogRead",
+					"HHAL_ANALOG_VALUE",
+					"analogInit",
+					"PWM",
+					"HHAL_RESPONSE",
+					"PWM",
+					"PWM_",
+					"HHAL_PWM",
+					"GPIO",
+					"PWMInit",
+					"GPIOInit",
+					"gpiosetmode",
+					"GPIOInit",
+					"GPIOSetMode",
+					"GPIO",
+					"DEFAULT_GPIO",
+					"DEFAULT",
+					"HHAL_GPIO_WRITE_PROPERTIES",
+					"begin(uint8_t",
+					"messageHandler",
+					"HHAL_Prop",
+					"enhancing",
+					" ",
+					"The midlevel system was our first PXI-based",
+					"dao mổ",
+					"We succeeded in developing this system thanks to the multilevel measurement system using the NI PXI platform and LabVIEW system design software. There was no other way of making that happen",
+					"Author",
+					"<h3>Author(s):</h3>",
+					"<p style=\"padding-bottom: 24px;\">Developing an automated test device for an in-vehicle indicator electronic control unit (ECU). </p>",
+					"Developing an automated test device for an in-vehicle indicator electronic control unit (ECU)",
+					"Development of an In-Vehicle Meter ECU Hardware-in-the-Loop Automated Test Device Using NI LabVIEW and PXI Hardware",
+					"Development of an In-Vehicle Meter ECU Hardware-in-the-Loop Automated Test Device Using NI LabVIEW and PXI",
+					"Development of an In-Vehicle Meter ECU Hardware-in-the-Loop Automated Test Device Using NI LabVIEW and PXI Hardware",
+					"IP_ADU_readHoldingRegistersRequest",
+					"MBAP",
+					"IP_ADU_ReadCoilsResponse"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"- end",
+					"- begin",
+					"(*mq)",
+					"(*tb_Task)",
+					"*tb_Task",
+					"(*tb_Task)->",
+					"(*tb_Task)",
+					"tb_Task",
+					"/",
+					"Excel",
+					"",
+					" ",
+					"",
+					"\\",
+					"/",
+					"\\",
+					"HHAL",
+					"HHAL_Analog_Prop",
+					"ANALOG",
+					"analog",
+					"ANALOG_",
+					"HHAL_ANALOG",
+					"PWM",
+					"HHAL_GPIO_DEFAULT",
+					"DEFAULT_GPIO",
+					"HHAL_GPIO_Prop",
+					"dao phẫu thuật",
+					"Quá trình phát triển hệ thống đo kiểm thiết bị phần cứng trên xe hơi sử dung NI LabVIEW và PXI"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 9,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 508,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										508,
+										508
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Voltera-Vone",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9,
+										9
+									]
+								],
+								"settings":
+								{
+									"auto_name": "M62X98997",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1019,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										629,
+										629
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Give the project name and one sentence to describe",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 684,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										50,
+										50
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 29,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										29,
+										29
+									]
+								],
+								"settings":
+								{
+									"auto_name": "14:30 - 14:40 Duy Nguyen Help",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/C_Cpp_LIB/Bico_MQTT/src/dummy/Deserialize_Test.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4887,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3574,
+										3574
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1417.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/C_Cpp_LIB/Bico_MQTT/src/dummy/Serialize_Test.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2576,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2310,
+										2310
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 659.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/D/Bico/HIOKI account ID.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,1142,2174,221,3397",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 351.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 10,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
